@@ -1,0 +1,23 @@
+CLASSIFICATION
+1. Decision Tree Gini & Entropy
+2. KNN
+3. Logistic Regression
+4. GaussianNB
+5. SVM
+6. Random Forest Classifier
+7. Gradient Boosting Classifier
+8. MLP Classifier (Neural Network)
+9. AdaBoost Classifier
+10. Quadratic Discriminant Analysis
+
+REGRESSION
+1. Linear Regression
+2. Decision Tree
+3. KNN
+4. SVM
+5. Random Forest
+6. Polynomial Regression
+7. Ridge Regression (L2 Regularization)
+8. Lasso Regression (L1 Regularization)
+9. Elastic Net Regression
+10. Gradient Boosting Regression
