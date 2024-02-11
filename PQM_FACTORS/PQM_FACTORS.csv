@@ -1,4 +1,4 @@
-Diastolic Blood Pressure (mmHg),Systolic Blood Pressure (mmHg),Blood Sugar Level (mg/dL),Oxygen Level (%),Heart Rate (beatspm),Body Temperature (F),Breathing Rate (breathspm),Urinalysis (pH),Peak Flow,Hydration Level (%),Seriousness
+DBP,SBP,BSL,OL,HR,BTemp,BR,U,PF,HL,Seriousness
 74.0,101.56,40.04,95.39,71.17,98.06,17.47,5.4,88.29,56.22,Moderate
 67.87,72.77,86.81,40.35,95.7,97.86,14.9,5.72,92.06,64.56,Serious
 99.9,112.77,103.41,96.07,48.78,98.59,16.26,11.55,88.77,50.35,High
