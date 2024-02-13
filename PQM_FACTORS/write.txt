@@ -1,1 +1,10 @@
-Condition: [80. 90. 90. 90.  9. 99. 15.  5. 80. 50.] - Patient 1 - Token No.: 1
+Condition: Emergency - Patient9 - Token No.: 1
+Condition: Critical - Patient8 - Token No.: 2
+Condition: High - Patient10 - Token No.: 3
+Condition: Significant - Patient7 - Token No.: 4
+Condition: Significant - Patient5 - Token No.: 5
+Condition: Moderate - Patient1 - Token No.: 6
+Condition: Mild - Patient4 - Token No.: 7
+Condition: Minimal - Patient6 - Token No.: 8
+Condition: Minimal - Patient3 - Token No.: 9
+Condition: Minimal - Patient2 - Token No.: 10
